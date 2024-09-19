@@ -50,8 +50,8 @@ You need a web browser to run the project locally.
 
 2. Navigate to the project folder:
 
-```cd js-learning-es6
-
+```
+cd js-learning-es6
 ```
 
 3. Open index.html in your preferred web browser:
